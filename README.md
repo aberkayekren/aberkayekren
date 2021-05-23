@@ -10,12 +10,12 @@ HTML 5
 
 CSS 3
   
-  Sass & Scss
+    Sass & Scss
 
 JavaScript
   
-  NodeJS
+    NodeJS
   
-  VueJS
+    VueJS
 
 Python
