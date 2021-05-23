@@ -7,9 +7,15 @@ Merhaba Ben Andaç Berkay Ekren 👋
 🚀 Bildğim yazılım dilleri ve teknolojileri:
 
 HTML 5
+
 CSS 3
+  
   Sass & Scss
+
 JavaScript
+  
   NodeJS
+  
   VueJS
+
 Python
