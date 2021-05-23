@@ -6,16 +6,16 @@ Merhaba Ben Andaç Berkay Ekren 👋
 
 🚀 Bildğim yazılım dilleri ve teknolojileri:
 
-HTML 5
+- HTML 5
 
-CSS 3
+- CSS 3
   
-    Sass & Scss
+   - Sass & Scss
 
-JavaScript
+- JavaScript
   
-    NodeJS
+   - NodeJS
   
-    VueJS
+   - VueJS
 
-Python
+- Python
