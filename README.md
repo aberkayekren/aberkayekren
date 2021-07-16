@@ -2,8 +2,6 @@
 
 💬 16 Yaşındayım ve Full-Stack çalışma potansiyeli sergileyen bir öğrenciyim.En sevdiğim bölüm Yapay Zeka (Artificial Intelligence) ve Makine Öğrenmesi (Machine Learning)'dir 💬 
 
-andacberkay.link	❌- Çıktım
-
 ⭐ En sevdiğim diller Pyhton ve Sass & Scss'dir. ⭐
 
 🚀 Bildğim yazılım dilleri ve teknolojileri: 🚀
