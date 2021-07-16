@@ -11,6 +11,7 @@
 - CSS 3
   
    - Sass & Scss
+   - Tailwind
 
 - JavaScript
   
@@ -20,3 +21,4 @@
 
 - Python
    - TKinter
+   - Flask
