@@ -15,7 +15,7 @@
 
 - JavaScript
   
-   - NodeJS
+- NodeJS
   
    - VueJS
 
