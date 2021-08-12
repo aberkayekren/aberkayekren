@@ -11,7 +11,14 @@
   
   <h2></h2>
 
-⭐ En sevdiğim diller Pyhton ve Sass & Scss'dir. ⭐
+  | İşlerim     | Durumları   |
+|------------|-------------|
+| Finder.com | Durdurdum ❌ |
+| Aberkayekren.blog | Durdurdum ❌ |
+
+<h2></h2>
+
+⭐ En sevdiğim yazılım dili Pyhton'dur.⭐
 
 🚀 Bildğim yazılım dilleri ve teknolojileri: 🚀
 
@@ -26,7 +33,7 @@
   - Nodejs
     - Vuejs
   - jQuery
-
+- C++
 - Python
    - TKinter
    - Flask
@@ -34,9 +41,3 @@
    - Numpy
 - GoLaang
 - Dart 
-
-
-| İşlerim     | Durumları   |
-|------------|-------------|
-| Finder.com | Durdurdum ❌ |
-| Aberkayekren.blog | Durdurdum ❌ |
