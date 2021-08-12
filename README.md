@@ -33,7 +33,7 @@
   - Nodejs
     - Vuejs
   - jQuery
-- C++
+
 - Python
    - TKinter
    - Flask
@@ -41,3 +41,5 @@
    - Numpy
 - GoLaang
 - Dart 
+- C++
+- Java
