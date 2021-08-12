@@ -1,6 +1,15 @@
-👋 Merhaba Ben Andaç Berkay Ekren 👋
+<h1 align="center">👋 Merhaba Ben Andaç Berkay Ekren 👋</h1>
 
-💬 16 Yaşındayım ve Full-Stack çalışma potansiyeli sergileyen bir öğrenciyim.En sevdiğim bölüm Yapay Zeka (Artificial Intelligence) ve Makine Öğrenmesi (Machine Learning)'dir 💬 
+<h4 align="center" style="padding: 34px 0;"> 💬 16 Yaşındayım ve Full-Stack çalışma potansiyeli sergileyen bir öğrenciyim.En sevdiğim bölüm Yapay Zeka (Artificial Intelligence) ve Makine Öğrenmesi (Machine Learning)'dir 💬  </h4>
+<br>
+
+  <div align="center">
+    <a target="_blank" href="https://t.me/aberkayekren">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=EF7F1A"></a>
+    <a target="_blank" href="https://www.youtube.com/channel/UCGfxd_fCog9r11d9dm-cOiQ">        <img alt="iletisim | Youtube"  src="https://img.shields.io/badge/youtube-2B2A29.svg?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
+    <a target="_blank" href="https://instagram.com/andacberkaye"> <img alt="iletisim | Linkedin" src="https://img.shields.io/badge/instagram-2B2A29.svg?style=for-the-badge&logo=instagram"></a>
+  </div>
+  
+  <h2></h2>
 
 ⭐ En sevdiğim diller Pyhton ve Sass & Scss'dir. ⭐
 
@@ -14,11 +23,20 @@
    - Tailwind
 
 - JavaScript
-  
-- NodeJS
-  
-   - VueJS
+  - Nodejs
+    - Vuejs
+  - jQuery
 
 - Python
    - TKinter
    - Flask
+   - Pandas
+   - Numpy
+- GoLaang
+- Dart 
+
+
+| İşlerim     | Durumları   |
+|------------|-------------|
+| Finder.com | Durdurdum ❌ |
+| Aberkayekren.com | Durdurdum ❌ |
