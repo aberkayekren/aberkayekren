@@ -14,7 +14,7 @@
    - Tailwind
 
 - JavaScript
-  
+
 - NodeJS
   
    - VueJS
@@ -22,3 +22,9 @@
 - Python
    - TKinter
    - Flask
+   - Django
+   - Pandas
+   - Numpy
+   - Selenium
+- GoLang
+- Dart 
