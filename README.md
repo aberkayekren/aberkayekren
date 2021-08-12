@@ -6,7 +6,7 @@
   <div align="center">
     <a target="_blank" href="https://t.me/aberkayekren">               <img alt="iletisim | Telegram" src="https://img.shields.io/badge/telegram-2B2A29.svg?style=for-the-badge&logo=telegram&logoColor=EF7F1A"></a>
     <a target="_blank" href="https://www.youtube.com/channel/UCGfxd_fCog9r11d9dm-cOiQ">        <img alt="iletisim | Youtube"  src="https://img.shields.io/badge/youtube-2B2A29.svg?style=for-the-badge&logo=youtube&logoColor=FF0000"></a>
-    <a target="_blank" href="https://instagram.com/andacberkaye"> <img alt="iletisim | Linkedin" src="https://img.shields.io/badge/instagram-2B2A29.svg?style=for-the-badge&logo=instagram"></a>
+    <a target="_blank" href="https://instagram.com/andacberkaye"> <img alt="iletisim | Linkedin" src="https://img.shields.io/badge/instagram-2B2A29.svg?style=for-the-badge&logo=instagram&logoColor=800080"></a>
   </div>
   
   <h2></h2>
@@ -39,4 +39,4 @@
 | İşlerim     | Durumları   |
 |------------|-------------|
 | Finder.com | Durdurdum ❌ |
-| Aberkayekren.com | Durdurdum ❌ |
+| Aberkayekren.blog | Durdurdum ❌ |
