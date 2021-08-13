@@ -35,7 +35,7 @@
   - jQuery
 
 - Python
-   - TKinter
+   - PyQt5
    - Flask
    - Pandas
    - Numpy
