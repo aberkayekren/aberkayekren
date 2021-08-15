@@ -32,10 +32,7 @@
 
 - JavaScript
   - Nodejs
-    - Vuejs
-  - jQuery
-
-
+    
 <h1 align="center">Back End</h1>
 
 - Python
