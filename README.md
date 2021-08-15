@@ -21,6 +21,7 @@
 ⭐ En sevdiğim yazılım dili Pyhton'dur.⭐
 
 🚀 Bildğim yazılım dilleri ve teknolojileri: 🚀
+<h1 align="center">Front End</h1>
 
 - HTML 5
 
@@ -34,12 +35,14 @@
     - Vuejs
   - jQuery
 
+
+<h1 align="center">Back End</h1>
+
 - Python
    - PyQt5
    - Flask
    - Pandas
    - Numpy
+- Java
 - GoLaang
 - Dart 
-- C++
-- Java
