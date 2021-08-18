@@ -19,8 +19,10 @@
 <h2></h2>
 
 ⭐ En sevdiğim yazılım dili Pyhton'dur.⭐
+<br>
+<br>
 
-🚀 Bildğim yazılım dilleri ve teknolojileri: 🚀
+<h1 align="center">🚀 Bildiğim Yazılım Dilleri ve Teknolojileri 🚀</h1>
 
 - HTML 5
 
