@@ -13,8 +13,8 @@
 
   | İşlerim     | Durumları   |
 |------------|-------------|
-| Finder.com | Durdurdum ❌ |
-| Aberkayekren.blog | Durdurdum ❌ |
+| Finder.com | Kapattım ❌ |
+| Aberkayekren.blog | Kapattım ❌ |
 
 <h2></h2>
 
