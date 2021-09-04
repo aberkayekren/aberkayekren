@@ -31,14 +31,7 @@
    - Sass & Scss
    - Tailwind
 
-- JavaScript
-  - Nodejs
-
 - Python
-   - PyQt5
-   - Flask
-   - Pandas
-   - Numpy
 - Java
 - GoLaang
 - Dart 
