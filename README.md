@@ -32,6 +32,9 @@
    - Tailwind
 
 - Python
+
+  - Flask
+  - Numpy
+  - Pandas
+  
 - Java
-- GoLaang
-- Dart 
