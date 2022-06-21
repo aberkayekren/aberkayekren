@@ -1,20 +1,20 @@
-### Hello :earth_americas: ! 
+### Hello :earth_americas: !<p align="right">![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2025%20mins-blue)</p>
 
-I'm Andaç. You can get more information about me from the links below.
-
-## 📌 Languages and Tools i use
-![Java](https://img.shields.io/badge/-Java-ffffff?style=flat&logo=java&logoColor=000000)
-![C#](https://img.shields.io/badge/-Csharp-ffffff?style=flat&logo=C#&logoColor=673dff)
-![Python](https://img.shields.io/badge/-Python-ffffff?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-Javascript-ffffff?style=flat&logo=javascript)
-![Ardunio](https://img.shields.io/badge/-Ardunio-ffffff?style=flat&logo=ardunio)
-![Kotlin](https://img.shields.io/badge/-Kotlin-ffffff?style=flat&logo=kotlin)
-![Android](https://img.shields.io/badge/-Android-ffffff?style=flat&logo=android)
-![Sql](https://img.shields.io/badge/-Sql-ffffff?style=flat&logo=sql&logoColor=00648B)
-![HTML](https://img.shields.io/badge/-HTML-ffffff?style=flat&logo=HTML5&logoColor=E34F26)
-![Git](https://img.shields.io/badge/-Git-ffffff?style=flat&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-ffffff?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-ffffff?style=flat&logo=visual-studio&logoColor=007ACC)
+```python
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Andaç Berkay Ekren"
+        self.role = "Software Engineer"
+        self.code_language = [Java, Csharp, Python, JavaScript, Ardunio, Sql]
+        self.tools = [Linux, Kotlin, IntelliJ IDEA, Android Studio, Microsoft Sql Server, Git, Visual Studio Code, Visual Studio]
+        self.language_spoken = ["tr_TR", "en_EN"]
+        
+    def say_hi(self):
+        print("You can get more information about me from the links below.")
+        
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ## :octocat: How to Reach Me
 
