@@ -6,7 +6,8 @@ class SoftwareEngineer:
         self.name = "Andaç Berkay Ekren"
         self.role = "Software Engineer"
         self.code_language = [Java, Csharp, Python, JavaScript, Ardunio, Sql]
-        self.tools = [Linux, Kotlin, IntelliJ IDEA, Android Studio, Microsoft Sql Server, Git, Visual Studio Code, Visual Studio]
+        self.tools = [Linux, Kotlin, IntelliJ IDEA, Android Studio, Microsoft Sql Server, Git, Visual Studio Code, 
+        Visual Studio]
         self.language_spoken = ["tr_TR", "en_EN"]
         
     def say_hi(self):
