@@ -28,6 +28,6 @@ me.say_hi()
 
 <p align="center">
     <a href="https://github.com/aberkayekren">
-        <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aberkayekren&theme=gradient">
+        <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aberkayekren&show_icons=true&locale=en&layout=compact&langs_count=8&theme=gradient">
     </a>                                                                                                                                  
 </p>                                                                                                                                           
