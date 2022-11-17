@@ -1,11 +1,11 @@
-### Hello :earth_americas: !<p align="right">![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2025%20mins-blue)</p>
+<!--### Hello :earth_americas: !<p align="right">![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2025%20mins-blue)</p>-->
 
 ```python
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Andaç Berkay Ekren"
         self.role = "Software Engineer"
-        self.code_language = [Java, Csharp, Python, JavaScript, Ardunio, Sql]
+        self.code_language = [Java, Csharp, Python, Sql]
         self.tools = [Linux, Kotlin, IntelliJ IDEA, Android Studio, Microsoft Sql Server, Git, Visual Studio Code, 
         Visual Studio]
         self.language_spoken = ["tr_TR", "en_EN"]
