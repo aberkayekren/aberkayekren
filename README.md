@@ -22,7 +22,3 @@ me.say_hi()
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-ffffff?style=flat&logo=linkedin&logoColor=0984e3)](https://www.linkedin.com/in/anda%C3%A7-e-783134215/) 
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-ffffff?style=flat&logo=StackOverflow)](https://stackoverflow.com/users/19333732/anda%c3%a7-berkay-ekren)
 [![Instagram](https://img.shields.io/badge/-Instagram-ffffff?style=flat&logo=Instagram)](https://instagram.com/andacberkaye)
-
-## 📌 GitHub Analytics
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aberkayekren&theme=dracula)                                               
