@@ -25,4 +25,3 @@ me.say_hi()
 
 ### Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aberkayekren&layout=donut-vertical&theme=dark)](https://github.com/aberkayekren)
